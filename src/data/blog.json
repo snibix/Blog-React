@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "title": "Les tendances du développement web en 2024",
+    "desc": "Découvrez les dernières innovations et frameworks qui révolutionnent le développement web. De React 18 aux nouvelles fonctionnalités CSS, explorez les outils indispensables pour créer des applications modernes et performantes.",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=400&fit=crop",
+    "author": {
+      "name": "Marie Dubois",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b9c7717d?w=100&h=100&fit=crop&crop=face"
+    },
+    "date": "15 July 2025",
+    "category": "Développement",
+    "vues": 500
+  },
+  {
+    "id": 2,
+    "title": "Guide complet du design UI/UX",
+    "desc": "Apprenez les principes fondamentaux du design d'interface utilisateur et d'expérience utilisateur. Ce guide vous accompagne dans la création d'interfaces intuitives et esthétiques qui captiveront vos utilisateurs.",
+    "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=800&h=400&fit=crop",
+    "author": {
+      "name": "Thomas Martin",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face"
+    },
+    "date": "14 July 2025",
+    "category": "Design",
+    "vues": 1500
+  },
+  {
+    "id": 3,
+    "title": "Intelligence artificielle et éthique",
+    "desc": "Explorez les enjeux éthiques de l'intelligence artificielle dans notre société moderne. Comment concilier innovation technologique et responsabilité sociale ? Une réflexion approfondie sur l'avenir de l'IA.",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop",
+    "author": {
+      "name": "Sophie Leroy",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face"
+    },
+    "date": "8 July 2025",
+    "category": "Technologie",
+    "vues": 500
+  },
+  {
+    "id": 4,
+    "title": "Marketing digital : stratégies gagnantes",
+    "desc": "Découvrez les stratégies de marketing digital les plus efficaces pour développer votre présence en ligne. SEO, réseaux sociaux, content marketing : tous les secrets pour réussir votre transformation digitale.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop",
+    "author": {
+      "name": "Pierre Moreau",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face"
+    },
+    "date": "5 Mar 2025",
+    "category": "Marketing",
+    "vues": 1500
+  },
+  {
+    "id": 5,
+    "title": "Sécurité informatique : protégez vos données",
+    "desc": "Dans un monde de plus en plus connecté, la sécurité informatique devient cruciale. Apprenez les bonnes pratiques pour protéger vos données personnelles et professionnelles contre les cyberattaques.",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=400&fit=crop",
+    "author": {
+      "name": "Laura Petit",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&h=100&fit=crop&crop=face"
+    },
+    "date": "1 Mar 2025",
+    "category": "Sécurité",
+    "vues": 500
+  },
+  {
+    "id": 6,
+    "title": "Cloud Computing : l'avenir du stockage",
+    "desc": "Explorez les avantages du cloud computing pour les entreprises modernes. De la scalabilité aux économies de coûts, découvrez pourquoi migrer vers le cloud est devenu incontournable.",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop",
+    "author": {
+      "name": "Alexandre Rousseau",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face"
+    },
+    "date": "28 Fév 2024",
+    "category": "Cloud",
+    "vues": 1500
+  },
+  {
+    "id": 7,
+    "title": "DevOps : automatisation et collaboration",
+    "desc": "Découvrez comment DevOps révolutionne le développement logiciel. Automatisation, intégration continue, déploiement continu : les clés pour accélérer vos cycles de développement.",
+    "image": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=800&h=400&fit=crop",
+    "author": {
+      "name": "Emma Bernard",
+      "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=100&h=100&fit=crop&crop=face"
+    },
+    "date": "25 Fév 2024",
+    "category": "DevOps",
+    "vues": 500
+  },
+  {
+    "id": 8,
+    "title": "Blockchain : au-delà des cryptomonnaies",
+    "desc": "La blockchain ne se limite pas aux cryptomonnaies. Explorez ses applications dans la supply chain, l'identité numérique et la certification. Une technologie qui transforme notre façon de faire confiance.",
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=400&fit=crop",
+    "author": {
+      "name": "Lucas Fournier",
+      "avatar": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=100&h=100&fit=crop&crop=face"
+    },
+    "date": "22 Fév 2024",
+    "category": "Blockchain",
+    "vues": 1500
+  },
+  {
+    "id": 9,
+    "title": "L'intelligence artificielle expliquée simplement",
+    "desc": "Découvrez comment l'intelligence artificielle transforme notre quotidien, des assistants vocaux à la médecine personnalisée. Une introduction claire aux concepts clés et aux enjeux éthiques.",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=400&fit=crop",
+    "author": {
+      "name": "Sophie Martin",
+      "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=100&h=100&fit=crop&crop=face"
+    },
+    "date": "15 Mar 2024",
+    "category": "Intelligence Artificielle",
+    "vues": 2300
+  }
+]
